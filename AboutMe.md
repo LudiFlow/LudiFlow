@@ -1,8 +1,8 @@
 # About Me!
 
-Hi, my name is **Florian!**
+Hi, my name is *Florian!*
 
-I'm 33 and living in *Rostock, Germany.* 
+I'm 33 and living in **Rostock, Germany.** 
 
 ## What are my favorite Activity's?
 
