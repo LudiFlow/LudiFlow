@@ -9,4 +9,4 @@
 
 # My GitHub Stats 👨‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=florian-ludwig&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florian-ludwig&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flolud&layout=compact) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flolud&show_icons=true&theme=radical)
