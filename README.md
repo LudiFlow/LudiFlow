@@ -2,7 +2,6 @@
 
 - My name is Florian!
 - I'm 33 and define myselve as a Web-Developer with a passion.
-- Love to learn more about UI & UX Design
 
 # My current Tech Stack 💻
 
