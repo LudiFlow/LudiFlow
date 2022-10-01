@@ -11,11 +11,10 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
-![Styled-Components](https://img.shields.io/badge/-Styled-Components-05122A?style=for-the-badge&logo=styledcomponents)&nbsp;
+![Styled-Components](https://img.shields.io/badge/-StyledComponents-05122A?style=for-the-badge&logo=styledcomponents)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
 
-# My Stats 👨‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LudiFlow&layout=compact)
