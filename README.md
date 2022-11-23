@@ -1,7 +1,11 @@
 # Hi, Everybody! 👋
 
-- My name is Florian!
-- I'm 33 and define myselve as a Fullstack-Developer with a passion.
+```java
+String name = "Florian";
+int age = 33;
+
+System.out.println("Junior Fullstack-Developer with passion");
+```
 
 # My current Tech Stack 💻
 
