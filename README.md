@@ -17,6 +17,7 @@ System.out.println("Junior Fullstack-Developer with passion");
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=for-the-badge&logo=next.js)&nbsp;
+![OpenJDK](https://img.shields.io/badge/-OpenJDK-05122A?style=for-the-badge&logo=openjdk)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring)&nbsp;
 ![JUnit5](https://img.shields.io/badge/-JUnit5-05122A?style=for-the-badge&logo=junit5)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-styled.components-05122A?style=for-the-badge&logo=styledcomponents)&nbsp;
