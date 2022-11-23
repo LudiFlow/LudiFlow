@@ -3,6 +3,7 @@
 ```java
 String name = "Florian";
 int age = 33;
+String[] hobbies = {"Coding", "Traveling", "Photography", "Cooking"};
 
 System.out.println("Junior Fullstack-Developer with passion");
 ```
