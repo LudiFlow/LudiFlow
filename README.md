@@ -1,4 +1,4 @@
-# Hi, Everybody! 👋
+# Hi, Everybody!
 
 ```java
 String name = "Florian";
@@ -8,7 +8,7 @@ String[] hobbies = {"Coding", "Traveling", "Photography", "Cooking"};
 System.out.println("Junior Fullstack-Developer with passion");
 ```
 
-# My current Tech Stack 💻
+# My current Tech Stack
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=html5)&nbsp;
