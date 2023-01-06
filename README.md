@@ -23,6 +23,7 @@ System.out.println("Junior Fullstack-Developer with passion");
 ![JUnit5](https://img.shields.io/badge/-JUnit5-05122A?style=for-the-badge&logo=junit5)&nbsp;
 ![Styled-Components](https://img.shields.io/badge/-styled_components-05122A?style=for-the-badge&logo=styledcomponents)&nbsp;
 ![MUI](https://img.shields.io/badge/-mui-05122A?style=for-the-badge&logo=mui)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&logo=mongodb)&nbsp;
