@@ -1,11 +1,20 @@
 # Hi, Everybody!
 
 ```java
-String name = "Florian";
-int age = 33;
-String[] hobbies = {"Coding", "Traveling", "Photography", "Cooking"};
+public class HelloWorld {
+     
+    public static void main (String[] args) {
+             
+        String name = "Florian";
+        int age = 33;
+        String[] hobbies = {"Coding", "Traveling", "Photography", "Cooking"};
 
-System.out.println("Junior Fullstack-Developer with passion");
+        System.out.println("Junior Fullstack-Developer with passion");
+        
+        }
+}
+
+
 ```
 
 # My current Tech Stack
